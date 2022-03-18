@@ -7,6 +7,8 @@ public class Main {
         String[] nombres = {"Pepo","Yuset","Pepe","Diset","Pepon","17","Maquina"};
         String cadenaNombres="";
         String cadenaNombres2="";
+        String cadenaNombres3="";
+
 
         for (int i = 0; i < nombres.length; i++ ){
 
@@ -19,9 +21,13 @@ public class Main {
         for(String nombre : nombres){
 
             cadenaNombres2 += (nombre + ", " ) ;
+            cadenaNombres3 = cadenaNombres3.concat(nombre + ", ");
 
         }
         System.out.println(cadenaNombres2);
+        System.out.println("con el metodo concat: " + cadenaNombres3);
+
+
 
     }
 }
