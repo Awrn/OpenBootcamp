@@ -1,13 +1,22 @@
 package com.alvarowagner;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
+        
+        Scanner scan = new Scanner(System.in);
 
-        float articulo1 = 3.75f;
-        float articulo2 = 2.12f;
-        float articulo3 = 6.55f;
-        float iva = 21;
+
+        System.out.println("Anade precio articulo1: ");
+        float articulo1 = scan.nextFloat();
+        System.out.println("Anade precio articulo2: ");
+        float articulo2 = scan.nextFloat();
+        System.out.println("Anade precio articulo3: ");
+        float articulo3 = scan.nextFloat();
+        System.out.println("Anade IVA: ");
+        float iva = scan.nextFloat();
 
         float totalArticulos = Total(articulo1,articulo2,articulo3) ;
 
