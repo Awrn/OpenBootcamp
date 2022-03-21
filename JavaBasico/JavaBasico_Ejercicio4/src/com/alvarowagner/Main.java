@@ -9,10 +9,13 @@ public class Main {
         DeviceScreen indieTechScreen = new DeviceScreen("IndieTech",18,25,"Amoled","1080p");
         DeviceScreen indieTechScreenMini = new DeviceScreen("IndieTech",10,15,"LED","480p");
 
-        SmartPhone iphone13 = new SmartPhone("Apple","Iphone 13",3200,true,true,samsungScreen,"Bits",false);
-        SmartPhone xiamoiMI9T = new SmartPhone("Xiaomi","MI9T",3500,true,false,indieTechScreen,"Xiaomi",false);
+        SmartPhone iphone13 = new SmartPhone("Apple","Iphone 13",3200,true,
+                true,samsungScreen,"Bits",false);
+        SmartPhone xiamoiMI9T = new SmartPhone("Xiaomi","MI9T",3500,true,
+                false,indieTechScreen,"Xiaomi",false);
 
-        SmartWatch iWatch5Pro = new SmartWatch ("Apple","iWatch5 Pro",1250,false,false,indieTechScreenMini,"Leather",17);
+        SmartWatch iWatch5Pro = new SmartWatch ("Apple","iWatch5 Pro",1250,false,
+                false,indieTechScreenMini,"Leather",17);
 
 
 
