@@ -14,7 +14,7 @@ public class Main {
 
             cadenaNombres += (nombres[i] + ":" + i + ", ") ;
         }
-        System.out.println(cadenaNombres);
+        System.out.println("for: " + cadenaNombres);
 
         System.out.println("--------------------------");
 
@@ -25,7 +25,7 @@ public class Main {
 
         }
         System.out.println(cadenaNombres2);
-        System.out.println("con el metodo concat: " + cadenaNombres3);
+        System.out.println("con el metodo concat/for each: " + cadenaNombres3);
 
 
 
