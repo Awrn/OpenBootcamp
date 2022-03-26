@@ -29,7 +29,7 @@ public class ManejoDeErrores {
             System.out.println("estoy en una excepción que no es aritmetica");
 
         }finally { // se va a ejecutar siempre funcione o no, es para que se vea que ha pasado por el trycatch
-            System.out.println("finally");
+            System.out.println("finallyy");
 
         }
 
