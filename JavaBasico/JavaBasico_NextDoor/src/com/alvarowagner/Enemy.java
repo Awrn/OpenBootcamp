@@ -2,7 +2,7 @@ package com.alvarowagner;
 
 import java.util.Random;
 
-public class Enemy {
+public class Enemy implements CombatNeeds {
 
     String type;
     int nivel = 1;
@@ -25,7 +25,7 @@ public class Enemy {
         this.critChance = critChance;
     }
 
-    public  void ShowEnemyStats(){
+    public  void ShowStats(){
         System.out.println("");
         System.out.println("Enemy| " + "nivel:" + nivel + " " + "vida:" + currentHealt + " " + "Daño:" + attackDamage + " " + "Probabilidad de Crítico:" + critChance + "%");
         System.out.println("");

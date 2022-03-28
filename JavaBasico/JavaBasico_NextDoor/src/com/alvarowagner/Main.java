@@ -1,6 +1,5 @@
 package com.alvarowagner;
 
-import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -46,7 +45,7 @@ public class Main {
         pj.nombre = nombre;
 
         System.out.println("Hola " + pj.nombre + ", estos son tus stats:");
-        pj.ShowPjStats();
+        pj.ShowStats();
         System.out.println("Ahora mismo dispones de la espada llamada " + pj.weapon.weaponName + " que tiene estos stats:");
         pj.ShowWeaponStats();
 
@@ -137,11 +136,11 @@ public class Main {
 
         Random rand = new Random();
         int nivel = pj.nivel + rand.nextInt(0,3);
-        int attack = 2 + rand.nextInt(0,nivel+ rand.nextInt(0,4));
+        int attack = 2 + rand.nextInt(0,nivel+ rand.nextInt(1,4));
         int health = 10 + nivel * 2;
 
         Enemy enemy = new Enemy("",nivel, health ,attack,  10 + nivel * 4 );
-        enemy.ShowEnemyStats();
+        enemy.ShowStats();
         Combat(pj,enemy,scr);
 
     }
@@ -305,11 +304,12 @@ public class Main {
     }
 
     public static void Win(Character pj){
-
+        System.out.println("");
+        System.out.println("*************************");
         System.out.println("Enhorabuena, has ganado!");
         System.out.println("Has muerto un total de: " + pj.deathCount + " veces.");
         System.out.println("Estos son tus stats finales");
-        pj.ShowPjStats();
+        pj.ShowStats();
         pj.ShowWeaponStats();
 
         System.out.println("Fin");

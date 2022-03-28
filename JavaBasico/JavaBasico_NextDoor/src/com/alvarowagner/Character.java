@@ -3,7 +3,7 @@ package com.alvarowagner;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Character {
+public class Character implements CombatNeeds {
 
     String nombre;
     int nivel;
@@ -44,7 +44,7 @@ public class Character {
         this.deathCount = deathCount;
     }
 
-    public  void ShowPjStats(){
+    public  void ShowStats(){
         System.out.println("");
         System.out.println("-----------Stats------------");
         System.out.println("nivel:" + nivel + " " + "VidaActual:" + currentHealt + "/" +maxHealth + " " +" Daño:" + attackDamage+ " " +"Probabilidad de Crítico:" + critChance + "%");
