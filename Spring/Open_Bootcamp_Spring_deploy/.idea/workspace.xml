@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad7bfcfe-99df-4082-8316-7fe1c799f5cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/CombatNeeds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaBasico/JavaBasico_NextDoor/src/com/alvarowagner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Open_Bootcamp_Spring_deploy/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Open_Bootcamp_Spring_deploy/OpenBootcampSpringDeployApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/Open_Bootcamp_Spring_deploy/OpenBootcampSpringDeployApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27PuOpnWYGGnZG3tr3LEvI2Ym0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../spring-deploy" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6298851" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alvaro\Desktop\Repositories\OpenBootcamp\Spring\Open_Bootcamp_Spring_deploy\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.Open_Bootcamp_Spring_deploy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OpenBootcampSpringDeployApplication">
+    <configuration name="OpenBootcampSpringDeployApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Open_Bootcamp_Spring_deploy.OpenBootcampSpringDeployApplication" />
+      <module name="Open_Bootcamp_Spring_deploy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Open_Bootcamp_Spring_deploy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenBootcampSpringDeployApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Open_Bootcamp_Spring_deploy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Open_Bootcamp_Spring_deploy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Open_Bootcamp_Spring_deploy" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Open_Bootcamp_Spring_deploy.OpenBootcampSpringDeployApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OpenBootcampSpringDeployApplication" />
+        <item itemvalue="JUnit.OpenBootcampSpringDeployApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7bfcfe-99df-4082-8316-7fe1c799f5cf" name="Changes" comment="" />
+      <created>1649234015186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649234015186</updated>
+    </task>
+    <servers />
+  </component>
+</project>
